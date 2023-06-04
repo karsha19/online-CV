@@ -2,5 +2,7 @@
 
 print("Git is awesome!")
 
-name = input("Enter your name: ")
-print(name)
+your_name = input("Enter your name: ")
+print(your_name)
+
+your_name = "Mike"
