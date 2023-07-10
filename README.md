@@ -1,2 +1,17 @@
-# online-CV
-Welcome to my online CV repository! This repository showcases my professional background, experience, education, and projects. Explore my journey, skills, and accomplishments as an industrial psychologist and software engineering student. Get to know me better and discover how I can contribute to your organisation. Feel free to reach out and connect with me!
+# My Online CV
+
+This repository showcases the HTML files for "My Online CV", a website I developed as part of a personal project.
+
+## Description
+
+The website consists of multiple pages and incorporates a responsive design using HTML, CSS, and Bootstrap. It includes sections such as "About Me," "Contact Details," "Work Experience," "Education," and "Projects."
+
+## Usage
+
+To view the website, simply open the `index.html` file in your web browser.
+
+## Technologies Used
+
+- HTML
+- CSS
+- Bootstrap
