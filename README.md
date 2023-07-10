@@ -1,6 +1,6 @@
 # My Online CV
 
-This repository showcases the HTML files for "My Online CV", a website I developed as part of a personal project.
+This repository showcases the HTML files for "My Online CV", a task I completed as part of my bootcamp in software engineer. 
 
 ## Description
 
